@@ -1,0 +1,120 @@
+10 10
+San Francisco
+Nopa, Contemporary American eatery known for wood-fired cuisine.
+Atelier Crenn, Elegant, chef-driven French cuisine with artistic presentation.
+Zuni Café, Modern, chic spot famous for its Mediterranean dishes.
+State Bird Provisions, Inventive, dim sum-style American small plates.
+Liholiho Yacht Club, Upscale Hawaiian-Asian fusion delights in a vibrant space.
+Gary Danko, Luxurious spot for New American dishes with a formal flair.
+House of Prime Rib, Classic venue serving prime rib & hearty sides.
+The Slanted Door, Modern Vietnamese cooking served in a sophisticated setting.
+Mourad, High-end Moroccan-inspired dishes with modern flair.
+Kokkari Estiatorio, Upscale Greek specialties in a cozy, fireplace-warmed space.
+
+Oakland
+Commis, High-end dining with a minimalist vibe offering tasting menus.
+Shakewell, Vibrant spot for Mediterranean-inspired cuisine.
+Belotti Ristorante e Bottega, Cozy eatery known for house-made pasta and Italian dishes.
+Tamarindo Antojeria, Classy space serving up authentic Mexican small plates.
+A16, Rustic-chic place for wood-fired pizza and Southern Italian cooking.
+Xolo, Quick-serve spot for a variety of classic Mexican eats.
+Zachary's Chicago Pizza, Award-winning, stuffed deep-dish pizzas.
+Hawking Bird, Thai street food in a casual, trendy setting.
+Nyum Bai, Bright eatery serving flavorful Cambodian dishes.
+Ensarro, Authentic Ethiopian cuisine served in a laid-back environment.
+
+Berkeley
+Chez Panisse, Pioneer of California cuisine with an emphasis on organic ingredients.
+Ippuku, Sleek Japanese izakaya specializing in yakitori.
+The Cheese Board Collective, Worker-owned bakery & pizzeria with a variety of offerings.
+Gather, Modern eatery with a focus on sustainable, local ingredients.
+La Note, Traditional Provençal dishes in a cozy bistro setting.
+Great China, Upmarket venue known for elevated Chinese dishes.
+Rivoli Restaurant, Modern New American cuisine with a focus on fresh and organic ingredients.
+Vik's Chaat, Casual spot for Indian street food favorites.
+Angeline's Louisiana Kitchen, Southern cooking with a focus on Cajun and Creole dishes.
+Grégoire, Quaint spot known for gourmet French take-out.
+
+Palo Alto
+Bird Dog, Stylish venue offering a mix of Asian and Californian cuisine.
+Tamarine, Modern, upscale location for contemporary Vietnamese dishes.
+Evvia Estiatorio, Sophisticated spot for hearty Greek specialties.
+Oren's Hummus, Lively eatery known for Israeli dishes and various hummus platters.
+Protégé, Upscale New American dining with a lounge area and tasting menu.
+Nobu, High-end Japanese-Peruvian fusion chain with a chic ambiance.
+Calafia Cafe, Health-conscious cafe & market featuring local ingredients.
+Pizzeria Delfina, Bustling venue for Neapolitan pizzas and Italian bites.
+The Sea by Alexander's Steakhouse, Upscale seafood dishes served in a refined setting.
+Coconuts Caribbean Restaurant & Bar, Vibrant decor complements the authentic Caribbean cuisine.
+
+Mountain View
+Oren's Hummus, Popular spot for a variety of Israeli dishes, known for hummus.
+Cucina Venti, Modern Italian restaurant with a global wine list.
+Xanh Restaurant, Stylish, modern venue for Vietnamese cuisine.
+Sushi Tomi, Traditional Japanese sushi & hot dishes in a modest setting.
+Eureka!, All-American scratch kitchen with a modern twist and local craft beer.
+Kappo Nami Nami, Authentic Japanese cuisine with a focus on seasonal ingredients.
+The Voya Restaurant, Contemporary Latin American cuisine in a modern setting.
+Amber India, Upscale Indian cuisine with innovative dishes.
+Doppio Zero, Neapolitan pizza and Southern Italian cuisine.
+Agave, Elegant venue offering traditional Mexican fare.
+
+San Mateo
+Ramen Dojo, Small, popular venue known for gourmet ramen.
+Sushi Sam's Edomata, Lively, upscale spot for a range of Japanese dishes.
+31st Union, Farm-to-table New American cuisine with a focus on local ingredients.
+Pancho Villa Taqueria, Vibrant setting serving traditional Mexican eats.
+Espetus Churrascaria, Brazilian steakhouse with skewered meats.
+Joy Sushi, Cozy, simple setting serving sushi and Japanese staples.
+Himawari, Traditional Japanese soups and sushi in a relaxed setting.
+Curry Up Now, Innovative Indian street food in a casual, cool environment.
+Rasa, Contemporary Indian cuisine with a stylish, upscale presentation.
+Pausa, Authentic Italian fare and bar in a chic, modern space.
+
+Fremont
+Clove and Hoof, Butchery and restaurant with a focus on meat dishes.
+Dish N Dash, Middle Eastern fast-casual dining in a relaxed atmosphere.
+Vung Tau Restaurant, Family-run eatery offering Vietnamese fare.
+Sala Thai, Traditional Thai cuisine in a warm, ornate space.
+The Smoking Pig BBQ Company, Casual BBQ joint with hearty portions and a homestyle vibe.
+Bao Sandwich Bar, Asian fusion spot known for its unique bao buns.
+Market Broiler, Seafood-centric American cuisine in a comfortable setting.
+Massimo's, Classic, upscale destination for Italian cuisine and cocktails.
+Federico's Tapas & Wine Bar, Intimate setting with Spanish bites and a broad wine selection.
+Le Moose Crepe Cafe, Thai food and French crepes in an unassuming strip-mall location.
+
+Santa Clara
+Puesto, Contemporary Mexican eatery known for tacos and tequila.
+Orenchi Ramen, Popular, laid-back Japanese noodle house.
+Din Tai Fung, Renowned Taiwanese chain known for its soup dumplings and noodles.
+Sushi O Sushi, Colorful plates of sushi & Japanese classics.
+Mikonos Grill, Casual Greek eatery with traditional flavors.
+Jang Su Jang, Spacious eatery offering a range of Korean dishes.
+Birk's, High-end steakhouse with a classic San Francisco vibe.
+Piatti, Welcoming environment serving up hearty Italian dishes.
+Justin's, Comfortable spot for American food & cocktails.
+Red Hot Chilli Pepper, Indo-Chinese cuisine in an eclectic, stylish space.
+
+Sunnyvale
+DishDash, Middle Eastern cuisine in a sleek, modern space.
+Ramen Seas, Japanese noodle soups & snacks in a contemporary setting.
+Tarragon, Seasonal New American dishes in a sophisticated atmosphere.
+Falafel STOP, Fast-casual Middle Eastern spot known for falafel sandwiches.
+Nom Burger, Upscale burger joint with inventive toppings and craft beers.
+The Oxford, British-style gastropub with a cozy, rustic feel.
+Gumba's, Family-friendly Italian bistro with a classic menu.
+Madras Cafe, Vegetarian Indian dishes served in a simple setting.
+Two Guys from Italy, Traditional Italian pizza and pasta in a casual setting.
+Pho Quyen 2 Noodle House, Vietnamese noodle soups and other traditional eats.
+
+Redwood City
+Vesta, Known for artisanal pizzas and small plates in a cozy atmosphere.
+La Viga Seafood & Cocina Mexicana, Latin American seafood dishes in a casual-modern space.
+Aly's on Main, Upscale American cuisine with a focus on local, organic produce.
+Portobello Grill, Relaxed, friendly atmosphere serving a mix of grills and pasta.
+The Striped Pig, Lively bar with high-end cocktails and American small plates.
+Vino Santo Bistro, Authentic Italian dishes served in a warm, intimate setting.
+Crouching Tiger Restaurant, Offers a wide range of Chinese dishes in a vibrant space.
+Sakura Teppanyaki and Sushi, Japanese grill and sushi bar providing a traditional dining experience.
+Angelica's, Fine dining with live music, offering a mix of European dishes.
+Quinto Sol, Features traditional Mexican cuisine with a modern twist in a festive atmosphere.
